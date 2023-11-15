@@ -23,10 +23,4 @@ In this lesson I'm learning how to use the command line. Below is a list of cont
 
 ### Technologies
 
-- Python 3.11
-- Jupyter Notebook
-- Python libraries:
-    - NumPy
-    - Pandas
-    - Matplotlibe.pyplot
-    - Seaborn
+- cmd
