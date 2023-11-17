@@ -4,19 +4,19 @@
 
 - [General info](#general-info)
 - [Technologies](#technologies)
-- [List of projects and their description](#List-of-projects-and-their-description)
-  - [Guided Project - Jupyter Notebook](#1.-Guided-Project---Jupyter-Notebook)
-  - [Guided Project - Profitable App Profiles for the App Store and Google Play Markets](#2.-Guided-Project---Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Market)
-  - [Guided Project - Exploring Hacker News Posts](#3.-Guided-Project---Exploring-Hacker-News-Posts)
-  - [Guided Project - Exploring eBay Car Sales Data](#4.-Guided-Project---Exploring-eBay-Car-Sales-Data)
-  - [Guided Project - Finding Heavy Traffic Indicators on I-94](#5.-Guided-Project---Finding-Heavy-Traffic-Indicators-on-I-94)
-  - [Guided Project - Storytelling Data Visualization on Exchange Rates](#6.-Guided-Project---Storytelling-Data-Visualization-on-Exchange-Rates)
-  - [Guided Project - Clean and Analyze Employee Exit Surveys](#7.-Guided-Project---Clean-and-Analyze-Employee-Exit-Surveys)
-  - [Guided Project Analyzing NYC High School Data](#8.-Guided-Project-Analyzing-NYC-High-School-Data)
-  - [Guided Project - Star Wars Survey](#9.-Guided-Project---Star-Wars-Survey)
-  - [Guided Project_ Analyzing Kickstarter Projects-811](#10.-Guided-Project_-Analyzing-Kickstarter-Projects-811)
-  - [Guided Project - Customers and Products Analysis Using SQL](#11.-Guided-Project---Customers-and-Products-Analysis-Using-SQL)
-  - [Guided Project - SQL Window Functions for Northwind Traders](#12.-Guided-Project---SQL-Window-Functions-for-Northwind-Traders)
+- [List of projects and their description](#list-of-projects-and-their-description)
+  - [Guided Project - Jupyter Notebook](#jupyter-notebook)
+  - [Guided Project - Profitable App Profiles for the App Store and Google Play Markets](#profitable-app-profiles-for-the-app-store-and-google-play-markets)
+  - [Guided Project - Exploring Hacker News Posts](#exploring-hacker-news-posts)
+  - [Guided Project - Exploring eBay Car Sales Data](#exploring-ebay-car-sales-data)
+  - [Guided Project - Finding Heavy Traffic Indicators on I-94](#finding-heavy-traffic-indicators-on-i-94)
+  - [Guided Project - Storytelling Data Visualization on Exchange Rates](#storytelling-data-visualization-on-exchange-rates)
+  - [Guided Project - Clean and Analyze Employee Exit Surveys](#clean-and-analyze-employee-exit-surveys)
+  - [Guided Project Analyzing NYC High School Data](#analyzing-nyc-high-school-data)
+  - [Guided Project - Star Wars Survey](#star-wars-survey)
+  - [Guided Project_ Analyzing Kickstarter Projects-811](#analyzing-kickstarter-projects-811)
+  - [Guided Project - Customers and Products Analysis Using SQL](#customers-and-products-analysis-using-sql)
+  - [Guided Project - SQL Window Functions for Northwind Traders](#sql-window-functions-for-northwind-traders)
 
 ### General info
 
@@ -31,15 +31,28 @@ Here I will saved all performed guided project from my learning course.
 
 ### List of projects and their description
 
-#### 1. Guided Project - Jupyter Notebook
+#### Jupyter Notebook
+
+<details>
+  <summary>Click to see description of project</summary>
 
 In these project I learn how to use Jupyter Notebook and short cuts in it.
 
-#### 2. Guided Project - Profitable App Profiles for the App Store and Google Play Markets
+</details>
+
+#### Profitable App Profiles for the App Store and Google Play Markets
+
+<details>
+  <summary>Click to see description of project</summary>
 
 The goal of these project is to find profiles of mobile apps that will be profitable for the App Store and Google Play markets. I will work as data analysts at a company that develops mobile apps for Android and iOS, and my job is to enable the team of developers to make data-driven decisions about the type of apps they develop.
 
-#### 3. Guided Project - Exploring Hacker News Posts
+</details>
+
+#### Exploring Hacker News Posts
+
+<details>
+  <summary>Click to see description of project</summary>
 
 [Hacker News]("https://news.ycombinator.com/") is a website where user-submitted stories (beter know as posts) recives votes and comments. It's popular in technology and startup circle.
 
@@ -55,7 +68,12 @@ In our analysis, we will determine:
 
 We'll be working with the [`hacker_news.csv`]("https://dq-content.s3.amazonaws.com/356/hacker_news.csv") dataset.
 
-#### 4. Guided Project - Exploring eBay Car Sales Data
+</details>
+
+#### Exploring eBay Car Sales Data
+
+<details>
+  <summary>Click to see description of project</summary>
 
 Project goals:
 - clean the data,
@@ -64,7 +82,12 @@ Project goals:
 In these project I'll be working with a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
 The original dataset isn't available on Kaggle anymore, but you can find it [here](https://data.world/data-society/used-cars-data). For my project purposed we will be working a sample of 50 000 data points from full dataset.
 
-#### 5. Guided Project - Finding Heavy Traffic Indicators on I-94
+</details>
+
+#### Finding Heavy Traffic Indicators on I-94
+
+<details>
+  <summary>Click to see description of project</summary>
 
 What the project is about:
 - I'm going to analyze a dataset about the westbound traffic on the [I-94 Interstate highway](https://en.wikipedia.org/wiki/Interstate_94). The dataset can be download from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume) and was created by John Hogue.
@@ -72,13 +95,23 @@ What the project is about:
 My goal with this project:
 -  is to determine indicators of heavy traffic on I-94.
 
-#### 6. Guided Project - Storytelling Data Visualization on Exchange Rates
+</details>
+
+#### Storytelling Data Visualization on Exchange Rates
+
+<details>
+  <summary>Click to see description of project</summary>
 
 In these project I will use [the dataset](https://www.kaggle.com/datasets/lsind18/euro-exchange-daily-rates-19992020), created by Daria Chemkaeva, which describe Euro daily exchange rate between 1999 and 2021. The euro (symbolized with €) is the official currency in most of the countries of the European Union.
 
 If the exchange rate of the euro to the US dollar is 1.5, you get 1.5 $ if you pay 1.0 € (one euro has more value than one US dollar at this exchange rate). 
 
-#### 7. Guided Project - Clean and Analyze Employee Exit Surveys
+</details>
+
+#### Clean and Analyze Employee Exit Surveys
+
+<details>
+  <summary>Click to see description of project</summary>
 
 In these project I will b eworking with [exit survrys from employees of the  Department of Education, Training and Employment (DETE)](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey) and the Technical and Further Education (TAFE) institute in Queensland, Australia. Slighty modifications was made in the orginal dataset to make the work on it easier. One of them was changing encoding from `cp1252` to `UTF-8`.
 
@@ -87,7 +120,12 @@ My goal is to find answers for below questions:
 - Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
 - Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
 
-#### 8. Guided Project Analyzing NYC High School Data
+</details>
+
+#### Analyzing NYC High School Data
+
+<details>
+  <summary>Click to see description of project</summary>
 
 This analysis aims to explore the relationships between SAT scores and various demographic factors in New York City public schools. As a brief background, the SAT, or Scholastic Aptitude Test, is a standardized test taken by high school seniors in the U.S., and colleges often use it as a criterion for admissions. Higher average SAT scores are typically associated with better-performing schools.
 
@@ -115,24 +153,44 @@ The objectives of the project include:
 - Investigating the potential correlation between AP exam scores and SAT scores among high schools.
 - Analyzing the equity aspect of the SAT by examining correlations between demographic factors such as race, gender, safety level, percentage of English learners, class size, and SAT scores.
 
-#### 9. Guided Project - Star Wars Survey
+</details>
+
+#### Star Wars Survey
+
+<details>
+  <summary>Click to see description of project</summary>
 
 In these project I will use the data colected by the team at [FiveThirtyEight](http://fivethirtyeight.com/) which can be donwload from [their GitHub respository](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey).
 
 My goal is to find answer for the question:
 - **Does the rest of America realise that 'The Empire Strikes Back' is by far the best of the bunch? "** 
 
-#### 10. Guided Project_ Analyzing Kickstarter Projects-811
+</details>
+
+#### Analyzing Kickstarter Projects-811
+
+<details>
+  <summary>Click to see description of project</summary>
 
 In these project we will help the product team, which conidering lunching a campaign on Kickstarter to test the viability of some offerings, to pull data which help them understand what might influence success. We will answer following question:
 - What type of projects are mostly likely to be successful?
 - Which project fail?
 
-#### 11. Guided Project - Customers and Products Analysis Using SQL
+</details>
+
+#### Customers and Products Analysis Using SQL
+
+<details>
+  <summary>Click to see description of project</summary>
 
 The Vehicle Distributors, a fictional wholesale distributor of die cast vehicle models, operates globally with customers in over 15 countries. The company has approached us with a dataset analysis task to help them make critical decisions regarding potential future expansion.  The objective of this project is to address their inquiries and provide data-driven answers by examining the available data. The provided dataset, along with its corresponding schema, can be found [here](https://www.mysqltutorial.org/mysql-sample-database.aspx)
 
-#### 12. Guided Project - SQL Window Functions for Northwind Traders
+</details>
+
+#### SQL Window Functions for Northwind Traders
+
+<details>
+  <summary>Click to see description of project</summary>
 
 This project focuses on the rich [Northwind database](https://github.com/pthom/northwind_psql/tree/master), which provides a real-world-like platform for exploring and analyzing sales data.
 
@@ -144,7 +202,4 @@ The projects focus on:
 
 Using the PostgreSQL window functions on the Northwind database, I will provide essential insights which contributing significantly to the company's strategic decisions.
 
-
-```python
-
-```
+</details>
