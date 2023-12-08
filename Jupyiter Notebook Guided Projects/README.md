@@ -17,7 +17,7 @@
   10. [Guided Project - Analyzing Kickstarter Projects-811](#analyzing-kickstarter-projects-811)
   11. [Guided Project - Customers and Products Analysis Using SQL](#customers-and-products-analysis-using-sql)
   12. [Guided Project - SQL Window Functions for Northwind Traders](#sql-window-functions-for-northwind-traders)
-
+  13. [Guided Project - Investigating Fandango Movie Ratings](#investigating-fandango-movie-ratings)
 ### General info
 
 Here I will saved all performed guided project from my learning course.
@@ -203,3 +203,24 @@ The projects focus on:
 Using the PostgreSQL window functions on the Northwind database, I will provide essential insights which contributing significantly to the company's strategic decisions.
 
 </details>
+
+#### Investigating Fandango Movie Ratings
+
+<details>
+  <summary>Click to see description of project</summary>
+
+**Content:**
+
+In October 2015 data journalist Walt Hickey analyzed movie ratings data from Fandango (an online movie ratings aggregator) and found evidence that rating system was dishonest.
+
+Fandango displays a 5-star rating system on their website, where the minimum rating is 0 stars and the maximum is 5 stars. In the HTML of the page Hickey found out significant discrepancy between the number od stars display to users and the actual rating. He found that:
+
+- The actual rating was almost always rounded up to the nearest half-star. For instance, a 4.1 movie would be rounded off to 4.5 stars, not to 4 stars, as you may expect.
+- In the case of 8% of the ratings analyzed, the rounding up was done to the nearest whole star. For instance, a 4.5 rating would be rounded off to 5 stars.
+- For one movie rating, the rounding off was completely bizarre: from a rating of 4 in the HTML of the page to a displayed rating of 5 stars.
+
+**Goal:**
+
+In this project we will analyze more recent movie ratings data to determinate if there has been any change in Fandango's rating system after Hickey's analysis.
+
+  </details>
