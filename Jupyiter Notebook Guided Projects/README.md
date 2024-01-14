@@ -18,6 +18,12 @@
   11. [Guided Project - Customers and Products Analysis Using SQL](#customers-and-products-analysis-using-sql)
   12. [Guided Project - SQL Window Functions for Northwind Traders](#sql-window-functions-for-northwind-traders)
   13. [Guided Project - Investigating Fandango Movie Ratings](#investigating-fandango-movie-ratings)
+  14. [Guided Project - Finding the Best Markets to Advertise In](#finding-the-best-markets-to-advertise-in)
+  15. [Guided Project - Mobile App for Lottery Addiction](#mobile-app-for-lottery-addiction)
+  16. [Guided Project - Building a Spam Filter with Naive Bayes](#building-a-spam-filter-with-naive-bayes)
+  17. [Guided Project - Winning Jeopardy](#winning-jeopardy)
+
+  
 ### General info
 
 Here I will saved all performed guided project from my learning course.
@@ -224,3 +230,56 @@ Fandango displays a 5-star rating system on their website, where the minimum rat
 In this project we will analyze more recent movie ratings data to determinate if there has been any change in Fandango's rating system after Hickey's analysis.
 
   </details>
+
+#### Finding the Best Markets to Advertise In
+
+<details>
+  <summary>Click to see description of project</summary>
+
+**About:**
+
+An e-learning company which offers courses on programming want to promote their products and invest some money in advertisement. Most of courses are on web and mobile development, but also cover many other domains, like data science, game development, etc.
+
+**Goal:**
+
+Our goal in this project is to find out the two best markets to advertise product in.
+
+  </details>  
+
+#### Mobile App for Lottery Addiction
+
+<details>
+  <summary>Click to see description of project</summary>
+
+In this project, we intend to lay the groundwork for a mobile application by writing some functions to calculate the probability of winning the lottery. The app aims to both prevent and treat lottery addiction by helping people better estimate their chances of winning.
+
+The idea of the app comes from the medical institute which is speciaized in treating gambling addictions. The institute has a team of engineers that will build the app, but they need us to create the logical core of the app and calculate probabilities. For the first version of the app, they want us to focus on the [6/49](https://en.wikipedia.org/wiki/Lotto_6/49) lottery and build functions that enable users to answer questions like:
+- What is the probability of winning the big prize with a single ticket?
+- What is the probability of winning the big prize if we play 40 different tickets (or any other number)?
+- What is the probability of having at least five (or four, or three, or two) winning numbers on a single ticket?
+
+The scenario we're following throughout this project is fictional — the main purpose is to practice applying the concepts we learned in a setting that simulates a real-world scenario.
+
+  </details>  
+
+#### Building a Spam Filter with Naive Bayes
+
+<details>
+  <summary>Click to see description of project</summary>
+
+In this project, we're going to build a spam filter for SMS messages using the multinomial Naive Bayes algorithm. Our goal is to create a spam filter that classifies new messages with an accuracy greater than 80% — so we expect that more than 80% of the new messages will be classified correctly as spam or ham (non-spam).
+
+To train the algorithm, we'll use a dataset of 5,572 SMS messages that are already classified by humans. The dataset was put together by Tiago A. Almeida and José María Gómez Hidalgo, and it can be downloaded from the [The UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection). The data collection process is described in more details [on this page](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/#composition), where you can also find some of the authors' papers.
+
+  </details>  
+
+#### Winning Jeopardy
+
+<details>
+  <summary>Click to see description of project</summary>
+
+Jeopardy is a popular TV show in the US where participants answer questions to win money. It's been running for many years, and is a major force in popular culture.
+
+We want to compete on Jeopardy and looking for any way to win it. So in this project, we'll work with a [dataset](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file) of Jeopardy questions, which contains 20000 rows from the beginning of a full dataset, to figure out some patterns in the questions that could help win.
+
+  </details>  
