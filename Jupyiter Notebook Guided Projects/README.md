@@ -22,6 +22,7 @@
   15. [Guided Project - Mobile App for Lottery Addiction](#mobile-app-for-lottery-addiction)
   16. [Guided Project - Building a Spam Filter with Naive Bayes](#building-a-spam-filter-with-naive-bayes)
   17. [Guided Project - Winning Jeopardy](#winning-jeopardy)
+  18. [Guided Project - Popular Data Science Questions](#popular-data-science-questions)
 
   
 ### General info
@@ -281,5 +282,16 @@ To train the algorithm, we'll use a dataset of 5,572 SMS messages that are alrea
 Jeopardy is a popular TV show in the US where participants answer questions to win money. It's been running for many years, and is a major force in popular culture.
 
 We want to compete on Jeopardy and looking for any way to win it. So in this project, we'll work with a [dataset](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file) of Jeopardy questions, which contains 20000 rows from the beginning of a full dataset, to figure out some patterns in the questions that could help win.
+
+  </details>  
+
+#### Popular Data Science Questions
+
+<details>
+  <summary>Click to see description of project</summary>
+
+In this scenario, we're working for a company that creates data science content.
+
+Our goal is to explor and use [Data Science Stack Exchange](https://datascience.stackexchange.com/) to determine what content should a data science education company create.
 
   </details>  
