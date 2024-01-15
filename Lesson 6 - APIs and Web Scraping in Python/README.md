@@ -17,7 +17,7 @@ In this lesson I'm learning how to use APIs and Web Scraping and also about buss
     - Fuzzy Language in Data Science
     - Communicating Results
     - Business Metrics
-    - Guided Project: Popular Data Science Questions
+    - [Guided Project: Popular Data Science Questions(.ipynb file)](../Jupyiter%20Notebook%20Guided%20Projects\18th%20project/Guided%20Project%20-%20Popular%20Data%20Science%20Questions.ipynb)
 
 ### Technologies
 
