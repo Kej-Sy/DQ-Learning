@@ -23,6 +23,7 @@
   16. [Guided Project - Building a Spam Filter with Naive Bayes](#building-a-spam-filter-with-naive-bayes)
   17. [Guided Project - Winning Jeopardy](#winning-jeopardy)
   18. [Guided Project - Popular Data Science Questions](#popular-data-science-questions)
+  19. [Guided Project - Predicting Heart Disease](#predicting-heart-disease)
 
   
 ### General info
@@ -293,5 +294,17 @@ We want to compete on Jeopardy and looking for any way to win it. So in this pro
 In this scenario, we're working for a company that creates data science content.
 
 Our goal is to explor and use [Data Science Stack Exchange](https://datascience.stackexchange.com/) to determine what content should a data science education company create.
+
+  </details>  
+
+#### Predicting Heart Disease
+
+<details>
+  <summary>Click to see description of project</summary>
+
+Accordingly to [The World Health Organization (WHO)](https://www.who.int/health-topics/cardiovascular-diseases) estimates, 17.9 million people die each year from cardiovascular disease (CVD).
+Risk factors that can contribute to CVD include: an unhealthy diet, physical inactivity or mental illness. Identifying these risk factors early on could help prevent many premature deaths.
+
+In these project we will be working with [Kaggle dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) and build a K-Nearest Neighbors classifier to predict a patient's likelihood of heart disease in the future.
 
   </details>  
