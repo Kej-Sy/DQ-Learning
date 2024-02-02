@@ -24,6 +24,7 @@
   17. [Guided Project - Winning Jeopardy](#winning-jeopardy)
   18. [Guided Project - Popular Data Science Questions](#popular-data-science-questions)
   19. [Guided Project - Predicting Heart Disease](#predicting-heart-disease)
+  20. [Guided Project - Credit Card Customer Segmentation](#credit-card-customer-segmentation)
 
   
 ### General info
@@ -306,5 +307,25 @@ Accordingly to [The World Health Organization (WHO)](https://www.who.int/health-
 Risk factors that can contribute to CVD include: an unhealthy diet, physical inactivity or mental illness. Identifying these risk factors early on could help prevent many premature deaths.
 
 In these project we will be working with [Kaggle dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) and build a K-Nearest Neighbors classifier to predict a patient's likelihood of heart disease in the future.
+
+  </details>  
+
+#### Credit Card Customer Segmentation
+
+<details>
+  <summary>Click to see description of project</summary>
+
+In this guided project, we’ll play the role of a data scientist working for a credit card company. We've been working on a datset that contains infromation about company's clients. Our job is to help with data segmentation in to groups in order to apply different business strategies for each type of customer.
+
+At a planning meeting with the Data Science coordinator, it was decided that we should use the K-means algorithm to segment the data.
+
+The company expects to receive a group for each customer and an explanation of the characteristics of each group and the main points that differentiate them.
+
+To achive goals that the company has set for us and to use algorithm properly, we'll perform the following steps:
+- dataset analysis,
+- data preparation for modeling,
+- find an appropriate number of clusters,
+- data segmentation,
+- interpretation and explanation of the results.
 
   </details>  
