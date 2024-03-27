@@ -25,6 +25,7 @@
   18. [Guided Project - Popular Data Science Questions](#popular-data-science-questions)
   19. [Guided Project - Predicting Heart Disease](#predicting-heart-disease)
   20. [Guided Project - Credit Card Customer Segmentation](#credit-card-customer-segmentation)
+  21. [Guided Project - Predicting Insurance Costs](#predicting-insurance-costs)
 
   
 ### General info
@@ -327,5 +328,16 @@ To achive goals that the company has set for us and to use algorithm properly, w
 - find an appropriate number of clusters,
 - data segmentation,
 - interpretation and explanation of the results.
+
+  </details>  
+
+#### Predicting Insurance Costs
+
+<details>
+  <summary>Click to see description of project</summary>
+
+In these project we'll be working on [Medical Cost Data Set](https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download) from Kaggle which contain information about individual medical insurance bills. Each bill is associated with some demographic and personal characteristics of the person who received it. 
+
+We will use linear regression to predict total medical costs based on the impact of relationships with other demographic characteristics. Predicting medical costs is important because it allows hospitals to forecast revenues and plan for the necessary procedures required by the patient population.
 
   </details>  
